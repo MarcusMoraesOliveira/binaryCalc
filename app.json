@@ -1,0 +1,12 @@
+{
+  "name": "binary-calc",
+  "displayName": "binary-calc",
+  "expo": {
+    "name": "binary-calc",
+    "slug": "binary-calc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
